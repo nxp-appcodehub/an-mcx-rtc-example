@@ -1,0 +1,10 @@
+Release Name: 		   an-mcx-rtc-example
+Release Version: 	   1.0
+Package License: 	   LA_OPT_NXP_Software_License v53 December 2023 - Additional Distribution License granted, license in Section 2.3 applies
+License in File: 	   Licence.txt
+Description: 		   This example serves as a guide on enabling the RTC module on MCX, selecting the correct clock source, enable the time keeping functions, enabling the alarm mode and wake timer to wake the MCU from a Deep Power Down state.
+Release location: 	   https://github.com/nxp-appcodehub/an-mcx-rtc-example
+Origin: 		   	   NXP (BSD-3-clause)
+					   NXP (Proprietary)
+					   CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+

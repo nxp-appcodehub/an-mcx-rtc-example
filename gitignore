@@ -1,0 +1,7 @@
+**/.settings/
+**/Debug
+**/Release
+*.bak
+*.launch
+*.jlink
+*.o

@@ -1,0 +1,24 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-mcx-rtc-example" type="app_note" format="projectfile" versionSchema="1.0.0" name="MCX RTC example">
+    <display_title>
+        Using the Real Time Clock (RTC) on MCX
+    </display_title>
+    <overview>
+        <![CDATA[This example serves as a guide on enabling the RTC module on MCX, selecting the correct clock source, enable the time keeping functions, enabling the alarm mode and wake timer to wake the MCU from a Deep Power Down state.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="MCX-N9XX-EVK"></hw>
+        <hw id="FRDM-MCXN947"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="clocks"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="low_power"></category>
+    </categories>
+</data:item>
